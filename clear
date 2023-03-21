@@ -1,0 +1,38 @@
+[33mcommit b3492ff5176aed66486fde7c5cc084024cebbca7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/about-section[m[33m, [m[1;32mabout-section[m[33m)[m
+Author: jecinacDarko <darkojecinac@gmail.com>
+Date:   Tue Mar 21 01:46:35 2023 +0100
+
+    about-section
+
+[33mcommit d1e0e023d00573cdb43baed2ccf3f308ecdf7b58[m
+Author: jecinacDarko <darkojecinac@gmail.com>
+Date:   Mon Mar 20 19:28:18 2023 +0100
+
+    lint error fix on Hero
+
+[33mcommit ef5b66400fcb190a3ffef688f178e93ca6318d19[m
+Merge: 0549ee8 c94a44b
+Author: Darko Jecinac <84959347+jecinacDarko@users.noreply.github.com>
+Date:   Mon Mar 20 19:25:37 2023 +0100
+
+    Merge pull request #1 from jecinacDarko/hero-section
+    
+    hero done
+
+[33mcommit c94a44b733fce915008d878ed3864ef2b277b1e7[m[33m ([m[1;31morigin/hero-section[m[33m, [m[1;32mhero-section[m[33m)[m
+Author: jecinacDarko <darkojecinac@gmail.com>
+Date:   Mon Mar 20 19:22:25 2023 +0100
+
+    hero done
+
+[33mcommit 0549ee8eb95f5e5eb09c1e311d57ad428430f4c1[m
+Author: jecinacDarko <darkojecinac@gmail.com>
+Date:   Mon Mar 20 19:20:11 2023 +0100
+
+    navbar done
+
+[33mcommit f55852cd2ff37763759f7d261d7b1fd4529e7743[m
+Author: jecinacDarko <darkojecinac@gmail.com>
+Date:   Mon Mar 20 15:53:41 2023 +0100
+
+    base ready
