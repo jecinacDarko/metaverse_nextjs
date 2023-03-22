@@ -5,6 +5,7 @@ import { motion } from 'framer-motion';
 import { ExploreCard, TitleText, TypingText } from '../components';
 import { staggerContainer } from '../utils/motion';
 import { exploreWorlds } from '../constants';
+
 import styles from '../styles';
 
 const Explore = () => {
